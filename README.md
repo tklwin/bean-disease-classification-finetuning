@@ -6,7 +6,7 @@ This repository contains the code and supplementary materials for the research p
 
 ## Overview
 
-The study presents a structured transfer learning approach combining model benchmarking and progressive fine-tuning to classify bean leaf diseases with high accuracy. We evaluated five pre-trained CNN architectures (VGG16, ResNet50, DenseNet121, EfficientNetB0, MobileNetV2) and implemented a stepwise fine-tuning strategy on ResNet50, which achieved a test accuracy of 98.86% on a combined bean disease dataset.
+The study presents a structured transfer learning approach combining model comparison and progressive fine-tuning to classify bean leaf diseases with high accuracy. We evaluated five pre-trained CNN architectures (VGG16, ResNet50, DenseNet121, EfficientNetB0, MobileNetV2) and implemented a stepwise fine-tuning strategy on ResNet50, which achieved a test accuracy of 98.86% on a combined bean disease dataset.
 
 ## Repository Contents
 
