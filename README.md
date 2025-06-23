@@ -1,15 +1,12 @@
 This repository contains the code and supplementary materials for the research paper:
 
-"**Improving Bean Disease Classification with Stepwise Fine-tuning of CNN-based Transfer Learning Models**"
+"**Improving Bean Disease Classification with Stepwise Fine-tuning of CNN-based Transfer Learning Model**"
 
-**Authors:** [Thein Kyaw Lwin, Thandar Phyo, Carla Sales]
 **Affiliation(s):** [Batangas State University]
 
 ## Overview
 
-This research paper explores the application of transfer learning using various pre-trained Convolutional Neural Network (CNN) architectures for the task of classifying diseases in bean plant images. We conduct a comparative benchmark of 5 CNN models to identify the most promising architecture for this specific task. Furthermore, we implement and analyze a stepwise fine-tuning strategy on the best-performing model to further optimize its performance and adaptability to the bean disease dataset.
-
-The goal is to provide insights into effective transfer learning strategies for agricultural image classification, specifically demonstrating the potential of readily available pre-trained models and the benefits of structured fine-tuning.
+The study presents a structured transfer learning approach combining model benchmarking and progressive fine-tuning to classify bean leaf diseases with high accuracy. We evaluated five pre-trained CNN architectures (VGG16, ResNet50, DenseNet121, EfficientNetB0, MobileNetV2) and implemented a stepwise fine-tuning strategy on ResNet50, which achieved a test accuracy of 98.86% on a combined bean disease dataset.
 
 ## Repository Contents
 
